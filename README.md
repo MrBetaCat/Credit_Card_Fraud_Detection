@@ -1,3 +1,3 @@
 # Credit Card Fraud Detection
-
-## Coming soon!!
+Python is used in this project, especially packages NumPy, SciPy, Matplotlib and Scikit-learn
+## Details Coming soon!!
